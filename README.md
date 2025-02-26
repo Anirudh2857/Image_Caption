@@ -1,4 +1,4 @@
-# Image to Caption Generation
+# Image to Caption Generation 
 
 ## Overview
 This project implements an image captioning model that generates descriptive captions for images using deep learning techniques. It utilizes a Convolutional Neural Network (CNN) for feature extraction and a Transformer-based language model for text generation. The dataset used is the Flickr8K dataset.
