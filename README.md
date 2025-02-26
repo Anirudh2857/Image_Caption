@@ -52,7 +52,7 @@ eval_dataloader = DataLoader(eval_dataset, batch_size=8)
 ```
 
 ## Demo Video
-A demonstration video of the project can be found https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto.
+A demonstration video of the project can be found 
 
 ## License
 This project is open-source and available under the MIT License.
